@@ -2,17 +2,16 @@
 
 ###  目录
 - [教程](#教程)
-- [通用教程](#通用教程)
+    - [通用教程](#通用教程)
 - [文章](#文章)
 - [网站](#网站)
-- [常用网站](#常用网站)
+    - [常用网站](#常用网站)
 - [工具](#工具)
-- [常用工具](#常用工具)
-- [桌面工具](#桌面工具)
-- [App](#app)
 - [项目](#项目)
-- [项目](#项目)
-- [库](#库)
+    - [App](#app)
+    - [项目](#项目)
+    - [库](#库)
+- [前端基础](#前端基础)
 
 
 ###教程
@@ -63,17 +62,23 @@
 
 ###网站
 
+* [weex社区](http://weex.help/)
 
+* [weex官网](https://alibaba.github.io/weex/)
 
 ###工具
 
-####常用工具
+* [weex playground app](https://alibaba.github.io/weex/download.html)
 
 
-####桌面工具
+
+
+
+
+
+###项目
 
 ####App
-
 
 
 * [weex-yy](https://github.com/vczero/weex-yy) 微阅读
@@ -98,14 +103,6 @@
 
 * [WeexOne](https://github.com/dodola/WeexOne) Weex [one 一个]客户端
 
-
-
-
-
-
-
-
-###项目
 
 
 ####项目
@@ -146,7 +143,7 @@ JavaScript 资源大全中文版，内容包括：包管理器、加载器、测
 A learning guide for JavaScript programmers. http://wwsun.github.io
 中文
 
-*[awesome-fe-team](https://github.com/mdluo/awesome-fe-team)
+* [awesome-fe-team](https://github.com/mdluo/awesome-fe-team)
 Awesome Front-end Teams
 
 * [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)
@@ -154,6 +151,7 @@ Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用�
 
 
 ###License
+
 ![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 
