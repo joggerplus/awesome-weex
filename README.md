@@ -9,7 +9,7 @@
 - [工具](#工具)
 - [项目](#项目)
     - [App](#app)
-    - [项目](#项目)
+    - [Demo](#demo)
     - [库](#库)
 - [前端基础](#前端基础)
 
@@ -105,7 +105,7 @@
 
 
 
-####项目
+####demo
 
 * [weex-hello-web](https://github.com/MrRaindrop/weex-hello-web) A demo of defining your own component for Weex on web platform.
 
@@ -159,3 +159,10 @@ Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用�
                                                                                                       ).
 
 copyright (c) 2016 coderyi.all rights reserved.
+
+
+
+欢迎加入Weex学习小组，一起学习Weex！
+
+<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/weexwechat.jpeg" width="225" height="300">
+
