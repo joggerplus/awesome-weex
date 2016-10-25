@@ -69,11 +69,15 @@
 
 * [weex官网](https://alibaba.github.io/weex/)
 
+
+
 ###工具
+
+* [Weex IDE](https://github.com/weexteam/weex-ide)
 
 * [weex playground app](https://alibaba.github.io/weex/download.html)
 
-
+* [weex playground website](http://weex.alibaba-inc.com/playground)
 
 
 
@@ -122,6 +126,8 @@
 
 * [Hippo-Weex-Android](https://github.com/q757571446/Hippo-Weex-Android) Android端使用Weex的简单demo，进行了简单封装 dagger+mvp+retrofit+weex 扩展了路由模块，支持weex界面跳转native界面的无参和带参两种形式，
 
+* [weexPageDemo](https://github.com/dengjunwen/weexPageDemo) 原有native工程集成weex sdk 教程和demo for iOS
+
 
 ####库
 
@@ -132,6 +138,8 @@
 * [weex-x](https://github.com/Jinjiang/weex-x) Flux-inspired-Architecture-Vuex-inspired-Architecture for Weex.
 
 * [WeexiOSKit](https://github.com/coderyi/hello-weex) 扩展了许多iOS上的Component和Module
+
+* [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) Rx framework for weex
 
 
 ####前端基础
@@ -167,7 +175,5 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 
 
-欢迎加入Weex学习小组，一起学习Weex！
 
-<img src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/weexwechat.jpeg" width="225" height="300">
 
