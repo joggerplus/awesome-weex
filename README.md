@@ -36,6 +36,9 @@
 
 * [Weex Android SDK源码分析系列](http://blog.csdn.net/column/details/weex.html)
 
+* [weex-quick-start](https://github.com/zhoukekestar/weex-quick-start) This a weex-quick-start guide for Android Developer.
+
+
 ###文章
 
 * [Weex的入门体验小结](https://zhuanlan.zhihu.com/p/21770667)
