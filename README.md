@@ -30,6 +30,10 @@
 
 * [阿里weex研究iOS 系列博客](http://blog.csdn.net/d200820205051/article/category/6306637)
 
+* [h5weex-books](https://github.com/h5weex/h5weex-books) h5weex相关文章
+
+
+
 * [weex日记1-2](http://www.zjutkz.net/2016/09/15/weex%E6%97%A5%E8%AE%B0/)
 
 * [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13)
@@ -79,8 +83,18 @@
 
 * [weex playground website](http://weex.alibaba-inc.com/playground)
 
+* [weex.vim)](https://github.com/yuezk/weex.vim) Weex syntax file for Vim.
+
+* [atom-weex](https://github.com/coffeedeveloper/atom-weex) Weex file syntax for Atom
+
+* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) Sublime Text syntax highlighting for single-file Vue components
+
+* [vim-vue](https://github.com/posva/vim-vue) Syntax Highligth for Vue.js components
+
+* [language-vue-component](https://atom.io/packages/language-vue-component) Adds syntax highlighting to Vue Component files in Atom.
 
 
+* [weex-language-support](https://github.com/misakuo/weex-language-support) IntelliJ plugin for weex
 
 
 ###项目
@@ -94,14 +108,6 @@
 
 * [toolbox-weex](https://github.com/hugojing/toolbox-weex) Weex - Some simple native UI pages written with Weex | 几个简单的原生界面示例，面向新手 & 用 Weex 编写
 
-* [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
-
-* [weex-advanced](https://github.com/walid1992/weex-advanced) weex 简单的demo帮助大家进行学习
-
-* [Hippo-Weex-Demo](https://github.com/q757571446/Hippo-Weex-Demo) js+we
-
-* [weex_demo](https://github.com/attackonFourier/weex_demo) we
-
 * [weex-baji](https://github.com/charlescui/weex-baji) WEEX版本的电视直播节目单APP
 
 * [PurchasingPlatform](https://github.com/emptywalker/PurchasingPlatform) 采购平台
@@ -110,9 +116,17 @@
 
 * [WeexOne](https://github.com/dodola/WeexOne) Weex [one 一个]客户端
 
-
+* [XiaoxiaZhihuWeex](https://github.com/LiushuiXiaoxia/XiaoxiaZhihuWeex) 一个知乎日报客户端
 
 ####demo
+
+* [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
+
+* [weex-advanced](https://github.com/walid1992/weex-advanced) weex 简单的demo帮助大家进行学习
+
+* [Hippo-Weex-Demo](https://github.com/q757571446/Hippo-Weex-Demo) js+we
+
+* [weex_demo](https://github.com/attackonFourier/weex_demo) we
 
 * [weex-hello-web](https://github.com/MrRaindrop/weex-hello-web) A demo of defining your own component for Weex on web platform.
 
@@ -140,6 +154,12 @@
 * [WeexiOSKit](https://github.com/coderyi/hello-weex) 扩展了许多iOS上的Component和Module
 
 * [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) Rx framework for weex
+
+* [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
+
+* [weex-marquee](https://github.com/zhouyuexie/weex-marquee) weex custom component---marquee,can Infinite scrolling.
+
+* [Weex-OkHttp-Adapter](https://github.com/zjutkz/Weex-OkHttp-Adapter) A Weex network Adapter based on OkHttp
 
 
 ####前端基础
