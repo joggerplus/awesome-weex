@@ -147,7 +147,7 @@
 ####App
 
 
-* [weex-yy](https://github.com/vczero/weex-yy) 微阅读
+* [weex-yy](https://github.com/vczero/weex-yy) [![GitHub stars](https://img.shields.io/github/stars/vczero/weex-yy.svg)]() 微阅读
 
 * [github client weex](https://github.com/coderyi/hello-weex) 用Weex写的GitHub的第三方客户端
 
