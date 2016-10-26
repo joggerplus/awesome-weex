@@ -1,5 +1,7 @@
 #[awesome-weex](https://github.com/JoggerPlus/awesome-weex)
 
+[Weex](https://github.com/alibaba/weex): A framework for building Mobile cross-platform UI.
+
 ###  目录
 - [教程](#教程)
     - [通用教程](#通用教程)
