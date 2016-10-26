@@ -136,24 +136,27 @@
 
 ###工具
 
-* [Weex IDE](https://github.com/weexteam/weex-ide)
+* [Weex IDE](https://github.com/weexteam/weex-ide) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-ide.svg)]() 
+
 
 * [weex playground app](https://alibaba.github.io/weex/download.html)
 
 * [weex playground website](http://weex.alibaba-inc.com/playground)
 
-* [weex.vim)](https://github.com/yuezk/weex.vim) Weex syntax file for Vim.
-
-* [atom-weex](https://github.com/coffeedeveloper/atom-weex) Weex file syntax for Atom
-
-* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) Sublime Text syntax highlighting for single-file Vue components
-
-* [vim-vue](https://github.com/posva/vim-vue) Syntax Highligth for Vue.js components
-
-* [language-vue-component](https://atom.io/packages/language-vue-component) Adds syntax highlighting to Vue Component files in Atom.
+* [weex.vim](https://github.com/yuezk/weex.vim) [![GitHub stars](https://img.shields.io/github/stars/yuezk/weex.vim.svg)]() Weex syntax file for Vim.  
 
 
-* [weex-language-support](https://github.com/misakuo/weex-language-support) IntelliJ plugin for weex ,关于使用可以查看此文，[Intellij Weex 插件使用说明](http://blog.qianlicao.cn/technology/2016/07/07/intellij-plugin-instruction/)
+* [atom-weex](https://github.com/coffeedeveloper/atom-weex) [![GitHub stars](https://img.shields.io/github/stars/coffeedeveloper/atom-weex.svg)]()  Weex file syntax for Atom
+
+* [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-syntax-highlight.svg)]() 
+ Sublime Text syntax highlighting for single-file Vue components
+* [vim-vue](https://github.com/posva/vim-vue) [![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)]()
+ Syntax Highligth for Vue.js components
+ 
+* [language-vue-component](https://atom.io/packages/language-vue-component) Adds syntax highlighting to Vue Component files in Atom. 
+
+
+* [weex-language-support](https://github.com/misakuo/weex-language-support) [![GitHub stars](https://img.shields.io/github/stars/misakuo/weex-language-support.svg)]() IntelliJ plugin for weex ,关于使用可以查看此文，[Intellij Weex 插件使用说明](http://blog.qianlicao.cn/technology/2016/07/07/intellij-plugin-instruction/) 
 
 
 ###项目
@@ -166,13 +169,13 @@
 
 * [github client weex](https://github.com/coderyi/hello-weex) [![GitHub stars](https://img.shields.io/github/stars/coderyi/hello-weex.svg)]() 用Weex写的GitHub的第三方客户端
 
-* [toolbox-weex](https://github.com/hugojing/toolbox-weex) Weex - Some simple native UI pages written with Weex | 几个简单的原生界面示例，面向新手 & 用 Weex 编写
+* [toolbox-weex](https://github.com/hugojing/toolbox-weex)  [![GitHub stars](https://img.shields.io/github/stars/hugojing/toolbox-weex.svg)]() Weex - Some simple native UI pages written with Weex | 几个简单的原生界面示例，面向新手 & 用 Weex 编写
 
-* [weex-baji](https://github.com/charlescui/weex-baji) WEEX版本的电视直播节目单APP
+* [weex-baji](https://github.com/charlescui/weex-baji) [![GitHub stars](https://img.shields.io/github/stars/charlescui/weex-baji.svg)]() WEEX版本的电视直播节目单APP
 
 * [PurchasingPlatform](https://github.com/emptywalker/PurchasingPlatform) 采购平台
 
-* [gank_weex](https://github.com/jtsky/gank_weex) gank的weex版本
+* [gank_weex](https://github.com/jtsky/gank_weex) [![GitHub stars](https://img.shields.io/github/stars/jtsky/gank_weex.svg)]() gank的weex版本
 
 * [XiaoxiaZhihuWeex](https://github.com/LiushuiXiaoxia/XiaoxiaZhihuWeex) 一个知乎日报客户端
  
@@ -219,9 +222,10 @@
 
 ####库
 
-* [weex-vuex-loader](https://github.com/kmCha/weex-vuex-loader) 
+* [weex-vuex-loader](https://github.com/kmCha/weex-vuex-loader)  [![GitHub stars](https://img.shields.io/github/stars/kmCha/weex-vuex-loader.svg)]() 
 
-* [vuex-weex](https://github.com/kmCha/vuex-weex)
+* [vuex-weex](https://github.com/kmCha/vuex-weex) [![GitHub stars](https://img.shields.io/github/stars/kmCha/vuex-weex.svg)]() 
+
 
 * [weex-x](https://github.com/Jinjiang/weex-x) [![GitHub stars](https://img.shields.io/github/stars/Jinjiang/weex-x.svg)]() Flux-inspired-Architecture-Vuex-inspired-Architecture for Weex. 
 
