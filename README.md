@@ -153,7 +153,7 @@
 * [vim-vue](https://github.com/posva/vim-vue) [![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)]()
  Syntax Highligth for Vue.js components
  
-* [language-vue-component](https://atom.io/packages/language-vue-component) Adds syntax highlighting to Vue Component files in Atom. 
+* [language-vue-component](https://github.com/CYBAI/language-vue-component) [![GitHub stars](https://img.shields.io/github/stars/CYBAI/language-vue-component.svg)]() Adds syntax highlighting to Vue Component files in Atom. 
 
 
 * [weex-language-support](https://github.com/misakuo/weex-language-support) [![GitHub stars](https://img.shields.io/github/stars/misakuo/weex-language-support.svg)]() IntelliJ plugin for weex ,关于使用可以查看此文，[Intellij Weex 插件使用说明](http://blog.qianlicao.cn/technology/2016/07/07/intellij-plugin-instruction/) 
@@ -211,7 +211,7 @@
 
 * [weex-learn](https://github.com/lotusyun/weex-learn) [![GitHub stars](https://img.shields.io/github/stars/lotusyun/weex-learn.svg)]() 一个小型的项目，帮助新手熟悉weex的基本用法
 
-* [weex-clear](https://github.com/youwenda/weex-clear) [![GitHub stars](https://img.shields.io/github/stars/youwenda/weex-clear/youwenda/weex-clear.svg)]() 尝试采用weex开发clear
+* [weex-clear](https://github.com/youwenda/weex-clear) [![GitHub stars](https://img.shields.io/github/stars/youwenda/weex-clear.svg)]() 尝试采用weex开发clear
 
 * [weex-dev](https://github.com/wangweianger/weex-dev) [![GitHub stars](https://img.shields.io/github/stars/wangweianger/weex-dev.svg)]() weex 初试
 
@@ -237,7 +237,7 @@
 
 * [Weex-OkHttp-Adapter](https://github.com/zjutkz/Weex-OkHttp-Adapter) [![GitHub stars](https://img.shields.io/github/stars/zjutkz/Weex-OkHttp-Adapter.svg)]() A Weex network Adapter based on OkHttp
 
-* [weex-format](https://github.com/walid1992/weex-format) weex-format 工具
+* [weex-format](https://github.com/walid1992/weex-format) [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-format.svg)]() weex-format 工具
 
 
  
