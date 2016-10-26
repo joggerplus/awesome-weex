@@ -246,7 +246,7 @@
 * [awesome-css-cn](https://github.com/jobbole/awesome-css-cn)
 CSS 资源大全中文版，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
 
-* [https://github.com/jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
+* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
 JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
 
 * [awesome-javascript](https://github.com/wwsun/awesome-javascript)
