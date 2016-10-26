@@ -117,6 +117,14 @@
 * [WeexOne](https://github.com/dodola/WeexOne) Weex [one 一个]客户端
 
 * [XiaoxiaZhihuWeex](https://github.com/LiushuiXiaoxia/XiaoxiaZhihuWeex) 一个知乎日报客户端
+ 
+* [cnbeta-weex](https://github.com/gakaki/cnbeta-weex) cnbeta weex 版
+
+* [weex-zhihudaily](https://github.com/huangang/weex-zhihudaily) 基于weex开发的知乎日报
+
+* [WeexFogHybrid](https://github.com/bringmehome/WeexFogHybrid) Fog2.0 4 weex
+
+
 
 ####demo
 
@@ -142,6 +150,14 @@
 
 * [weexPageDemo](https://github.com/dengjunwen/weexPageDemo) 原有native工程集成weex sdk 教程和demo for iOS
 
+* [weex-learn](https://github.com/lotusyun/weex-learn) 一个小型的项目，帮助新手熟悉weex的基本用法
+
+* [weex-clear](https://github.com/youwenda/weex-clear) 尝试采用weex开发clear
+
+* [weex-dev](https://github.com/wangweianger/weex-dev) weex 初试
+
+* [h5weex-example](https://github.com/h5weex/h5weex-example) h5weex实例
+
 
 ####库
 
@@ -161,7 +177,10 @@
 
 * [Weex-OkHttp-Adapter](https://github.com/zjutkz/Weex-OkHttp-Adapter) A Weex network Adapter based on OkHttp
 
+* [weex-format](https://github.com/walid1992/weex-format) weex-format 工具
 
+
+ 
 ####前端基础
 
 * [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)  很好的入门教程，推荐。是火狐推出的一系列的JS教程，为什么会有这一篇“重新介绍”呢？因为 JavaScript 堪称世界上被人误解最深的编程语言。虽然常被视作“玩具语言”，但它看似简洁外衣下，还隐藏着强大的语言特性。 JavaScript 目前广泛应用于一大批知名应用中，对于网页和移动开发者来说，深入理解 JavaScript 就尤有必要；
