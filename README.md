@@ -33,8 +33,6 @@
 
 * [h5weex-books](https://github.com/h5weex/h5weex-books) h5weex相关文章
 
-
-
 * [weex日记1-2](http://www.zjutkz.net/2016/09/15/weex%E6%97%A5%E8%AE%B0/)
 
 * [对无线电商动态化方案的思考（一 - 三）](https://github.com/amfe/article/issues/13)
@@ -44,6 +42,7 @@
 * [weex-quick-start](https://github.com/zhoukekestar/weex-quick-start) This a weex-quick-start guide for Android Developer.
 
 * [weex学习笔记系列](http://zct1989.oschina.io/tags/weex/)
+
 * [关于Weex，你想了解的一切都在这里](https://yq.aliyun.com/articles/57995?spm=5176.100240.searchblog.7.tKh1YW)
 
 ####视频教程
@@ -95,20 +94,35 @@
 * [weex vs react-native](https://yq.aliyun.com/articles/57996)
 
 * [Weex 实时渲染插件](https://yq.aliyun.com/articles/58397)
+
 * [Swift In Weex](https://yq.aliyun.com/articles/58509)
+
 * [weex中使用数据流工具Vuex实践](https://yq.aliyun.com/articles/59188)
+
 * [Weex 中的 virtual-DOM 介绍](https://yq.aliyun.com/articles/59179)
+
 * [详解 Weex JS Framework 的编译过程](https://yq.aliyun.com/articles/59935)
+
 * [深度揭秘阿里移动端高性能动态化方案Weex](https://yq.aliyun.com/articles/54774)
+
 * [关于Weex你需要知道的一切](https://yq.aliyun.com/articles/54773)
+
 * [Weex详解：灵活的移动端高性能动态化方案](https://yq.aliyun.com/articles/54775)
+
 * [Weex入门与进阶指南](https://yq.aliyun.com/articles/57554)
+
 * [weex-style-loader: 给你熟悉的style开发体验](https://yq.aliyun.com/articles/58236)
+
 * [Weex总结之Android Weex工程搭建趟坑](https://yq.aliyun.com/articles/58743)
+
 * [Weex调试神器——Weex Devtools使用手册](https://yq.aliyun.com/articles/57651)
+
 * [无线动态化解决方案总结：从WeApp到Weex](https://yq.aliyun.com/articles/57997)
+
 * [浅析weex之vdom渲染](https://yq.aliyun.com/articles/57711)
+
 * [深入折腾 Weex，知乎日报客户端开发](https://yq.aliyun.com/articles/42625)
+
 * [Weex 版扫雷游戏开发](https://yq.aliyun.com/articles/42627)
 
 
