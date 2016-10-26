@@ -3,6 +3,7 @@
 ###  目录
 - [教程](#教程)
     - [通用教程](#通用教程)
+    - [视频教程](#视频教程)
 - [文章](#文章)
 - [网站](#网站)
     - [常用网站](#常用网站)
@@ -42,6 +43,12 @@
 
 * [weex-quick-start](https://github.com/zhoukekestar/weex-quick-start) This a weex-quick-start guide for Android Developer.
 
+* [weex学习笔记系列](http://zct1989.oschina.io/tags/weex/)
+* [关于Weex，你想了解的一切都在这里](https://yq.aliyun.com/articles/57995?spm=5176.100240.searchblog.7.tKh1YW)
+
+####视频教程
+
+* [用 Weex 命令行快速创建工程](https://yq.aliyun.com/articles/57716?spm=5176.100240.searchblog.49.tKh1YW)
 
 ###文章
 
@@ -66,6 +73,44 @@
 * [Weex & ReactNative & JSPatch](http://awhisper.github.io/2016/07/22/Weex-ReactNative-JSPatch/)
 
 * [Weex 实践之大神器，模拟器也能热刷新拉](http://www.jianshu.com/p/241fc05e5cf0)
+
+* [Weex 初次见到你](http://miomin.coding.me/2016/08/06/Weex%20%E5%88%9D%E6%AC%A1%E8%A7%81%E5%88%B0%E4%BD%A0/)
+
+* [iOS HotPatch的选择（Weex, React Native, JSPatch）--2016.6.24GMTC后感](http://www.yiqixiabigao.com/ios-hotpatchde-xuan-ze-weex-react-native-jspatch-2016-6-24gmtchou-gan/)
+
+* [不止是动态化：Weex项目和阿里无线技术开源方向](https://yq.aliyun.com/articles/61665)
+
+* [Weex Android Border绘制](https://yq.aliyun.com/articles/60784)
+
+* [Weex 在 JS Runtime 内的多实例管理](https://yq.aliyun.com/articles/59940)
+
+* [[Weex Tips] 合理使用 Weex 的生命周期](https://yq.aliyun.com/articles/59936)
+
+* [Weex 框架中 JS Framework 的结构](https://yq.aliyun.com/articles/59934)
+
+* [Weex Android 文字渲染优化](https://yq.aliyun.com/articles/58508)
+
+* [Weex&ReactNative对比](https://yq.aliyun.com/articles/57992)
+
+* [weex vs react-native](https://yq.aliyun.com/articles/57996)
+
+* [Weex 实时渲染插件](https://yq.aliyun.com/articles/58397)
+* [Swift In Weex](https://yq.aliyun.com/articles/58509)
+* [weex中使用数据流工具Vuex实践](https://yq.aliyun.com/articles/59188)
+* [Weex 中的 virtual-DOM 介绍](https://yq.aliyun.com/articles/59179)
+* [详解 Weex JS Framework 的编译过程](https://yq.aliyun.com/articles/59935)
+* [深度揭秘阿里移动端高性能动态化方案Weex](https://yq.aliyun.com/articles/54774)
+* [关于Weex你需要知道的一切](https://yq.aliyun.com/articles/54773)
+* [Weex详解：灵活的移动端高性能动态化方案](https://yq.aliyun.com/articles/54775)
+* [Weex入门与进阶指南](https://yq.aliyun.com/articles/57554)
+* [weex-style-loader: 给你熟悉的style开发体验](https://yq.aliyun.com/articles/58236)
+* [Weex总结之Android Weex工程搭建趟坑](https://yq.aliyun.com/articles/58743)
+* [Weex调试神器——Weex Devtools使用手册](https://yq.aliyun.com/articles/57651)
+* [无线动态化解决方案总结：从WeApp到Weex](https://yq.aliyun.com/articles/57997)
+* [浅析weex之vdom渲染](https://yq.aliyun.com/articles/57711)
+* [深入折腾 Weex，知乎日报客户端开发](https://yq.aliyun.com/articles/42625)
+* [Weex 版扫雷游戏开发](https://yq.aliyun.com/articles/42627)
+
 
 ###网站
 
@@ -94,7 +139,7 @@
 * [language-vue-component](https://atom.io/packages/language-vue-component) Adds syntax highlighting to Vue Component files in Atom.
 
 
-* [weex-language-support](https://github.com/misakuo/weex-language-support) IntelliJ plugin for weex
+* [weex-language-support](https://github.com/misakuo/weex-language-support) IntelliJ plugin for weex ,关于使用可以查看此文，[Intellij Weex 插件使用说明](http://blog.qianlicao.cn/technology/2016/07/07/intellij-plugin-instruction/)
 
 
 ###项目
