@@ -173,17 +173,17 @@
 
 * [weex-baji](https://github.com/charlescui/weex-baji) [![GitHub stars](https://img.shields.io/github/stars/charlescui/weex-baji.svg)]() WEEX版本的电视直播节目单APP
 
-* [PurchasingPlatform](https://github.com/emptywalker/PurchasingPlatform) 采购平台
+* [PurchasingPlatform](https://github.com/emptywalker/PurchasingPlatform) [![GitHub stars](https://img.shields.io/github/stars/emptywalker/PurchasingPlatform.svg)]() 采购平台
 
 * [gank_weex](https://github.com/jtsky/gank_weex) [![GitHub stars](https://img.shields.io/github/stars/jtsky/gank_weex.svg)]() gank的weex版本
 
-* [XiaoxiaZhihuWeex](https://github.com/LiushuiXiaoxia/XiaoxiaZhihuWeex) 一个知乎日报客户端
+* [XiaoxiaZhihuWeex](https://github.com/LiushuiXiaoxia/XiaoxiaZhihuWeex) [![GitHub stars](https://img.shields.io/github/stars/LiushuiXiaoxia/XiaoxiaZhihuWeex.svg)]() 一个知乎日报客户端
  
-* [cnbeta-weex](https://github.com/gakaki/cnbeta-weex) cnbeta weex 版
+* [cnbeta-weex](https://github.com/gakaki/cnbeta-weex) [![GitHub stars](https://img.shields.io/github/stars/gakaki/cnbeta-weex.svg)]() cnbeta weex 版
 
-* [weex-zhihudaily](https://github.com/huangang/weex-zhihudaily) 基于weex开发的知乎日报
+* [weex-zhihudaily](https://github.com/huangang/weex-zhihudaily) [![GitHub stars](https://img.shields.io/github/stars/huangang/weex-zhihudaily.svg)]() 基于weex开发的知乎日报
 
-* [WeexFogHybrid](https://github.com/bringmehome/WeexFogHybrid) Fog2.0 4 weex
+* [WeexFogHybrid](https://github.com/bringmehome/WeexFogHybrid) [![GitHub stars](https://img.shields.io/github/stars/bringmehome/WeexFogHybrid.svg)]() Fog2.0 4 weex
 
 
 
@@ -195,29 +195,27 @@
 
 * [Hippo-Weex-Demo](https://github.com/q757571446/Hippo-Weex-Demo) [![GitHub stars](https://img.shields.io/github/stars/q757571446/Hippo-Weex-Demo.svg)]() js+we
 
-* [weex_demo](https://github.com/attackonFourier/weex_demo) we
+* [weex_demo](https://github.com/attackonFourier/weex_demo) [![GitHub stars](https://img.shields.io/github/stars/attackonFourier/weex_demo.svg)]() we
 
-* [weex-hello-web](https://github.com/MrRaindrop/weex-hello-web) A demo of defining your own component for Weex on web platform.
+* [weex-hello-web](https://github.com/MrRaindrop/weex-hello-web) [![GitHub stars](https://img.shields.io/github/stars/MrRaindrop/weex-hello-web.svg)]() A demo of defining your own component for Weex on web platform.
 
 * [weex_extend_demo](https://github.com/MrRaindrop/weex_extend_demo) [![GitHub stars](https://img.shields.io/github/stars/MrRaindrop/weex_extend_demo.svg)]() A demo for using own defined extensions for weex-html5.
 
-* [weexPageDemo](https://github.com/dengjunwen/weexPageDemo) 原有native工程集成weex sdk 教程和demo for iOS
+* [weexPageDemo](https://github.com/dengjunwen/weexPageDemo) [![GitHub stars](https://img.shields.io/github/stars/dengjunwen/weexPageDemo.svg)]() 原有native工程集成weex sdk 教程和demo for iOS
 
-* [WeexOCExample](https://github.com/acton393/WeexOCExample)
+* [WeexOCExample](https://github.com/acton393/WeexOCExample) [![GitHub stars](https://img.shields.io/github/stars/acton393/WeexOCExample.svg)]()
 
-* [WeexSwiftSample](https://github.com/acton393/WeexSwiftSample)
+* [WeexSwiftSample](https://github.com/acton393/WeexSwiftSample) [![GitHub stars](https://img.shields.io/github/stars/acton393/WeexSwiftSample.svg)]()
 
-* [Hippo-Weex-Android](https://github.com/q757571446/Hippo-Weex-Android) Android端使用Weex的简单demo，进行了简单封装 dagger+mvp+retrofit+weex 扩展了路由模块，支持weex界面跳转native界面的无参和带参两种形式，
+* [Hippo-Weex-Android](https://github.com/q757571446/Hippo-Weex-Android) [![GitHub stars](https://img.shields.io/github/stars/q757571446/Hippo-Weex-Android.svg)]() Android端使用Weex的简单demo，进行了简单封装 dagger+mvp+retrofit+weex 扩展了路由模块，支持weex界面跳转native界面的无参和带参两种形式，
 
-* [weexPageDemo](https://github.com/dengjunwen/weexPageDemo) 原有native工程集成weex sdk 教程和demo for iOS
+* [weex-learn](https://github.com/lotusyun/weex-learn) [![GitHub stars](https://img.shields.io/github/stars/lotusyun/weex-learn.svg)]() 一个小型的项目，帮助新手熟悉weex的基本用法
 
-* [weex-learn](https://github.com/lotusyun/weex-learn) 一个小型的项目，帮助新手熟悉weex的基本用法
+* [weex-clear](https://github.com/youwenda/weex-clear) [![GitHub stars](https://img.shields.io/github/stars/youwenda/weex-clear/youwenda/weex-clear.svg)]() 尝试采用weex开发clear
 
-* [weex-clear](https://github.com/youwenda/weex-clear) 尝试采用weex开发clear
+* [weex-dev](https://github.com/wangweianger/weex-dev) [![GitHub stars](https://img.shields.io/github/stars/wangweianger/weex-dev.svg)]() weex 初试
 
-* [weex-dev](https://github.com/wangweianger/weex-dev) weex 初试
-
-* [h5weex-example](https://github.com/h5weex/h5weex-example) h5weex实例
+* [h5weex-example](https://github.com/h5weex/h5weex-example) [![GitHub stars](https://img.shields.io/github/stars/h5weex/h5weex-example.svg)]() h5weex实例
 
 
 ####库
@@ -233,11 +231,11 @@
 
 * [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-rx-framework.svg)]() Rx framework for weex
 
-* [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
+* [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-tabbar.svg)]() weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
 
-* [weex-marquee](https://github.com/zhouyuexie/weex-marquee) weex custom component---marquee,can Infinite scrolling.
+* [weex-marquee](https://github.com/zhouyuexie/weex-marquee) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-marquee.svg)]() weex custom component---marquee,can Infinite scrolling.
 
-* [Weex-OkHttp-Adapter](https://github.com/zjutkz/Weex-OkHttp-Adapter) A Weex network Adapter based on OkHttp
+* [Weex-OkHttp-Adapter](https://github.com/zjutkz/Weex-OkHttp-Adapter) [![GitHub stars](https://img.shields.io/github/stars/zjutkz/Weex-OkHttp-Adapter.svg)]() A Weex network Adapter based on OkHttp
 
 * [weex-format](https://github.com/walid1992/weex-format) weex-format 工具
 
