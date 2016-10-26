@@ -160,10 +160,11 @@
 
 ####App
 
+* [WeexOne](https://github.com/dodola/WeexOne) [![GitHub stars](https://img.shields.io/github/stars/dodola/WeexOne.svg)]() Weex [one 一个]客户端
 
 * [weex-yy](https://github.com/vczero/weex-yy) [![GitHub stars](https://img.shields.io/github/stars/vczero/weex-yy.svg)]() 微阅读
 
-* [github client weex](https://github.com/coderyi/hello-weex) 用Weex写的GitHub的第三方客户端
+* [github client weex](https://github.com/coderyi/hello-weex) [![GitHub stars](https://img.shields.io/github/stars/coderyi/hello-weex.svg)]() 用Weex写的GitHub的第三方客户端
 
 * [toolbox-weex](https://github.com/hugojing/toolbox-weex) Weex - Some simple native UI pages written with Weex | 几个简单的原生界面示例，面向新手 & 用 Weex 编写
 
@@ -172,8 +173,6 @@
 * [PurchasingPlatform](https://github.com/emptywalker/PurchasingPlatform) 采购平台
 
 * [gank_weex](https://github.com/jtsky/gank_weex) gank的weex版本
-
-* [WeexOne](https://github.com/dodola/WeexOne) Weex [one 一个]客户端
 
 * [XiaoxiaZhihuWeex](https://github.com/LiushuiXiaoxia/XiaoxiaZhihuWeex) 一个知乎日报客户端
  
@@ -187,17 +186,17 @@
 
 ####demo
 
-* [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
+* [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
 
-* [weex-advanced](https://github.com/walid1992/weex-advanced) weex 简单的demo帮助大家进行学习
+* [weex-advanced](https://github.com/walid1992/weex-advanced) [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-advanced.svg)]() weex 简单的demo帮助大家进行学习
 
-* [Hippo-Weex-Demo](https://github.com/q757571446/Hippo-Weex-Demo) js+we
+* [Hippo-Weex-Demo](https://github.com/q757571446/Hippo-Weex-Demo) [![GitHub stars](https://img.shields.io/github/stars/q757571446/Hippo-Weex-Demo.svg)]() js+we
 
 * [weex_demo](https://github.com/attackonFourier/weex_demo) we
 
 * [weex-hello-web](https://github.com/MrRaindrop/weex-hello-web) A demo of defining your own component for Weex on web platform.
 
-* [weex_extend_demo](https://github.com/MrRaindrop/weex_extend_demo) A demo for using own defined extensions for weex-html5.
+* [weex_extend_demo](https://github.com/MrRaindrop/weex_extend_demo) [![GitHub stars](https://img.shields.io/github/stars/MrRaindrop/weex_extend_demo.svg)]() A demo for using own defined extensions for weex-html5.
 
 * [weexPageDemo](https://github.com/dengjunwen/weexPageDemo) 原有native工程集成weex sdk 教程和demo for iOS
 
@@ -220,15 +219,15 @@
 
 ####库
 
-* [weex-vuex-loader](https://github.com/kmCha/weex-vuex-loader)
+* [weex-vuex-loader](https://github.com/kmCha/weex-vuex-loader) 
 
 * [vuex-weex](https://github.com/kmCha/vuex-weex)
 
-* [weex-x](https://github.com/Jinjiang/weex-x) Flux-inspired-Architecture-Vuex-inspired-Architecture for Weex.
+* [weex-x](https://github.com/Jinjiang/weex-x) [![GitHub stars](https://img.shields.io/github/stars/Jinjiang/weex-x.svg)]() Flux-inspired-Architecture-Vuex-inspired-Architecture for Weex. 
 
-* [WeexiOSKit](https://github.com/coderyi/hello-weex) 扩展了许多iOS上的Component和Module
+* [WeexiOSKit](https://github.com/coderyi/hello-weex) [![GitHub stars](https://img.shields.io/github/stars/coderyi/hello-weex.svg)]() 扩展了许多iOS上的Component和Module
 
-* [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) Rx framework for weex
+* [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-rx-framework.svg)]() Rx framework for weex
 
 * [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
 
