@@ -241,7 +241,7 @@
 
 * [weex-format](https://github.com/walid1992/weex-format) [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-format.svg)]() weex-format 工具
 
-
+* [Weex-TestDemo](https://github.com/HJ-StevenSun/Weex-TestDemo) Mac调试Weex工程
  
 ####前端基础
 
