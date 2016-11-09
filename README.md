@@ -242,6 +242,9 @@
 * [weex-format](https://github.com/walid1992/weex-format) [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-format.svg)]() weex-format 工具
 
 * [Weex-TestDemo](https://github.com/HJ-StevenSun/Weex-TestDemo) [![GitHub stars](https://img.shields.io/github/stars/HJ-StevenSun/Weex-TestDemo.svg)]()  Mac调试Weex工程
+
+* [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-tabbar.svg)]()   weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
+
  
 ####前端基础
 
