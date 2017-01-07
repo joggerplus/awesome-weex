@@ -47,6 +47,10 @@
 
 * [关于Weex，你想了解的一切都在这里](https://yq.aliyun.com/articles/57995?spm=5176.100240.searchblog.7.tKh1YW)
 
+* [weex note - sunqichao](https://github.com/sunqichao/sqcweex.github.com)
+
+* [Weex 探索系列](https://gold.xitu.io/post/585c7b9f8d6d810065d87087)
+
 ####视频教程
 
 * [用 Weex 命令行快速创建工程](https://yq.aliyun.com/articles/57716?spm=5176.100240.searchblog.49.tKh1YW)
@@ -152,6 +156,7 @@
 
 * [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-syntax-highlight.svg)]() 
  Sublime Text syntax highlighting for single-file Vue components
+
 * [vim-vue](https://github.com/posva/vim-vue) [![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)]()
  Syntax Highligth for Vue.js components
  
@@ -159,6 +164,12 @@
 
 
 * [weex-language-support](https://github.com/misakuo/weex-language-support) [![GitHub stars](https://img.shields.io/github/stars/misakuo/weex-language-support.svg)]() IntelliJ plugin for weex ,关于使用可以查看此文，[Intellij Weex 插件使用说明](http://blog.qianlicao.cn/technology/2016/07/07/intellij-plugin-instruction/) 
+
+* [webpack-weex-livereload-plugin](https://github.com/daxingplay/webpack-weex-livereload-plugin) [![GitHub stars](https://img.shields.io/github/stars/daxingplay/webpack-weex-livereload-plugin.svg)]() weex live reload plugin for webpack
+
+* [weex-vue-migration](https://github.com/songsiqi/weex-vue-migration) [![GitHub stars](https://img.shields.io/github/stars/songsiqi/weex-vue-migration.svg)]() migration from *.we file to *.vue file
+
+
 
 
 ###项目
@@ -186,6 +197,22 @@
 * [weex-zhihudaily](https://github.com/huangang/weex-zhihudaily) [![GitHub stars](https://img.shields.io/github/stars/huangang/weex-zhihudaily.svg)]() 基于weex开发的知乎日报
 
 * [WeexFogHybrid](https://github.com/bringmehome/WeexFogHybrid) [![GitHub stars](https://img.shields.io/github/stars/bringmehome/WeexFogHybrid.svg)]() Fog2.0 4 weex
+
+* [weexCalculator](https://github.com/SenorYAN/weexCalculator) [![GitHub stars](https://img.shields.io/github/stars/SenorYAN/weexCalculator.svg)]() 
+
+* [rc-weex](https://github.com/kumalee/rc-weex) [![GitHub stars](https://img.shields.io/github/stars/kumalee/rc-weex.svg)]() weex client for redcouch
+
+* [weex-relaCalc](https://github.com/IACJ/weex-relaCalc) [![GitHub stars](https://img.shields.io/github/stars/IACJ/weex-relaCalc.svg)]() weex三端开发-亲戚称谓计算器
+
+* [weex-eleme](https://github.com/furybean/weex-eleme) [![GitHub stars](https://img.shields.io/github/stars/furybean/weex-eleme.svg)]() A eleme app using weex.
+
+* [weex_anjuke](https://github.com/bringmehome/weex_anjuke) [![GitHub stars](https://img.shields.io/github/stars/bringmehome/weex_anjuke.svg)]() 使用weex开发安居客的首页
+
+* [iCar](https://github.com/voidxin/iCar) [![GitHub stars](https://img.shields.io/github/stars/voidxin/iCar.svg)]() “用weex技术实现新闻详情页是怎样一种体验”？ iCar project 是一款用Weex技术实现的汽车新闻客户端
+
+* [iCar](https://github.com/nuptboyzhb/WeexZhihuDaily) [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/WeexZhihuDaily.svg)]() weex版知乎日报
+
+
 
 
 
@@ -219,6 +246,14 @@
 
 * [h5weex-example](https://github.com/h5weex/h5weex-example) [![GitHub stars](https://img.shields.io/github/stars/h5weex/h5weex-example.svg)]() h5weex实例
 
+* [EWhat](https://github.com/Lx15/EWhat) [![GitHub stars](https://img.shields.io/github/stars/Lx15/EWhat.svg)]() 基于weex的app及h5应用
+
+* [user-guide-app](https://github.com/echoyoung46/user-guide-app) [![GitHub stars](https://img.shields.io/github/stars/echoyoung46/user-guide-app.svg)]() Hybrid app by Weex.
+
+* [Speed On Weex Develope Road](https://github.com/KennyBest/Weex) [![GitHub stars](https://img.shields.io/github/stars/KennyBest/Weex.svg)]() 
+
+* [WeexMovie](https://github.com/MasonLiuChn/WeexMovie) [![GitHub stars](https://img.shields.io/github/stars/MasonLiuChn/WeexMovie.svg)]() 
+
 
 ####库
 
@@ -245,7 +280,16 @@
 
 * [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-tabbar.svg)]()   weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
 
- 
+* [weex_3d_map](https://github.com/amap-demo/weex_3d_map) [![GitHub stars](https://img.shields.io/github/stars/amap-demo/weex_3d_map.svg)]() Weex 高德地图组件扩展
+
+* [weex-polaroid-photo](https://github.com/JackPu/weex-polaroid-photo) [![GitHub stars](https://img.shields.io/github/stars/JackPu/weex-polaroid-photo.svg)]() a plugin show Polaroid Photo
+
+* [weex-percentage-circle](https://github.com/JackPu/weex-percentage-circle) [![GitHub stars](https://img.shields.io/github/stars/JackPu/weex-percentage-circle.svg)]() a component for weex percentage circle
+
+* [wxc-form](https://github.com/zhoukekestar/wxc-form) [![GitHub stars](https://img.shields.io/github/stars/zhoukekestar/wxc-form.svg)]() Weex Component Form.
+
+
+
 ####前端基础
 
 * [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)  很好的入门教程，推荐。是火狐推出的一系列的JS教程，为什么会有这一篇“重新介绍”呢？因为 JavaScript 堪称世界上被人误解最深的编程语言。虽然常被视作“玩具语言”，但它看似简洁外衣下，还隐藏着强大的语言特性。 JavaScript 目前广泛应用于一大批知名应用中，对于网页和移动开发者来说，深入理解 JavaScript 就尤有必要；
