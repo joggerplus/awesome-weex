@@ -288,6 +288,7 @@
 
 * [wxc-form](https://github.com/zhoukekestar/wxc-form) [![GitHub stars](https://img.shields.io/github/stars/zhoukekestar/wxc-form.svg)]() Weex Component Form.
 
+* [WeexAnalyzer](https://github.com/xiayun200825/WeexAnalyzer) [![GitHub stars](https://img.shields.io/github/stars/xiayun200825/WeexAnalyzer.svg)]()
 
 
 ####前端基础
