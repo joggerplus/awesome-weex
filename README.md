@@ -151,6 +151,8 @@
 
 * [weex playground website](http://weex.alibaba-inc.com/playground)
 
+* [vim-weex](https://github.com/vim-weex/vim-weex) [![GitHub stars](https://img.shields.io/github/stars/vim-weex/vim-weex.svg)]() Vim plugin for weex.  
+
 * [weex.vim](https://github.com/yuezk/weex.vim) [![GitHub stars](https://img.shields.io/github/stars/yuezk/weex.vim.svg)]() Weex syntax file for Vim.  
 
 
