@@ -55,6 +55,8 @@
 
 * [用 Weex 命令行快速创建工程](https://yq.aliyun.com/articles/57716?spm=5176.100240.searchblog.49.tKh1YW)
 
+* [Weex视频教程 by weex暴走青年](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)
+
 ###文章
 
 * [Weex的入门体验小结](https://zhuanlan.zhihu.com/p/21770667)
