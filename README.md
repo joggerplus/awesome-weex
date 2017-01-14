@@ -214,7 +214,7 @@
 
 * [iCar](https://github.com/voidxin/iCar) [![GitHub stars](https://img.shields.io/github/stars/voidxin/iCar.svg)]() “用weex技术实现新闻详情页是怎样一种体验”？ iCar project 是一款用Weex技术实现的汽车新闻客户端
 
-* [iCar](https://github.com/nuptboyzhb/WeexZhihuDaily) [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/WeexZhihuDaily.svg)]() weex版知乎日报
+* [WeexZhihuDaily](https://github.com/nuptboyzhb/WeexZhihuDaily) [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/WeexZhihuDaily.svg)]() weex版知乎日报
 
 
 
