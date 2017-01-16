@@ -51,6 +51,9 @@
 
 * [Weex 探索系列](https://gold.xitu.io/post/585c7b9f8d6d810065d87087)
 
+* [【资料合集】Weex Conf回顾集锦：讲义PDF+活动视频！
+](https://yq.aliyun.com/articles/68818?spm=5176.100238.goodcont.14.eaZbvF)
+
 ####视频教程
 
 * [用 Weex 命令行快速创建工程](https://yq.aliyun.com/articles/57716?spm=5176.100240.searchblog.49.tKh1YW)
@@ -138,7 +141,9 @@
 
 * [weex社区](http://weex.help/)
 
-* [weex官网](https://alibaba.github.io/weex/)
+* [weex官网](https://weex-project.io/)
+
+* [weex market](https://market.weex-project.io/) 聚合Weex的扩展功能和组件
 
 
 
