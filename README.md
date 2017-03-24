@@ -1,4 +1,4 @@
-#[awesome-weex](https://github.com/JoggerPlus/awesome-weex)
+# [awesome-weex](https://github.com/JoggerPlus/awesome-weex)
 
 [Weex](https://github.com/alibaba/weex): A framework for building Mobile cross-platform UI.
 
@@ -17,9 +17,9 @@
 - [前端基础](#前端基础)
 
 
-###教程
+### 教程
 
-####通用教程
+#### 通用教程
 
 * [weex 学习/实践指南](https://github.com/vczero/weex-learning)
 
@@ -54,13 +54,13 @@
 * [【资料合集】Weex Conf回顾集锦：讲义PDF+活动视频！
 ](https://yq.aliyun.com/articles/68818?spm=5176.100238.goodcont.14.eaZbvF)
 
-####视频教程
+#### 视频教程
 
 * [用 Weex 命令行快速创建工程](https://yq.aliyun.com/articles/57716?spm=5176.100240.searchblog.49.tKh1YW)
 
 * [Weex视频教程 by weex暴走青年](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)
 
-###文章
+### 文章
 
 * [Weex的入门体验小结](https://zhuanlan.zhihu.com/p/21770667)
 
@@ -137,7 +137,7 @@
 * [Weex 版扫雷游戏开发](https://yq.aliyun.com/articles/42627)
 
 
-###网站
+### 网站
 
 * [weex社区](http://weex.help/)
 
@@ -147,7 +147,7 @@
 
 
 
-###工具
+### 工具
 
 * [Weex IDE](https://github.com/weexteam/weex-ide) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-ide.svg)]() 
 
@@ -181,9 +181,9 @@
 
 
 
-###项目
+### 项目
 
-####App
+#### App
 
 * [WeexOne](https://github.com/dodola/WeexOne) [![GitHub stars](https://img.shields.io/github/stars/dodola/WeexOne.svg)]() Weex [one 一个]客户端
 
@@ -225,7 +225,7 @@
 
 
 
-####demo
+#### demo
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
 
@@ -264,7 +264,7 @@
 * [WeexMovie](https://github.com/MasonLiuChn/WeexMovie) [![GitHub stars](https://img.shields.io/github/stars/MasonLiuChn/WeexMovie.svg)]() 
 
 
-####库
+#### 库
 
 * [weex-vuex-loader](https://github.com/kmCha/weex-vuex-loader)  [![GitHub stars](https://img.shields.io/github/stars/kmCha/weex-vuex-loader.svg)]() 
 
@@ -300,7 +300,7 @@
 * [WeexAnalyzer](https://github.com/xiayun200825/WeexAnalyzer) [![GitHub stars](https://img.shields.io/github/stars/xiayun200825/WeexAnalyzer.svg)]()
 
 
-####前端基础
+#### 前端基础
 
 * [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)  很好的入门教程，推荐。是火狐推出的一系列的JS教程，为什么会有这一篇“重新介绍”呢？因为 JavaScript 堪称世界上被人误解最深的编程语言。虽然常被视作“玩具语言”，但它看似简洁外衣下，还隐藏着强大的语言特性。 JavaScript 目前广泛应用于一大批知名应用中，对于网页和移动开发者来说，深入理解 JavaScript 就尤有必要；
 
@@ -321,7 +321,7 @@ Awesome Front-end Teams
 Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。
 
 
-###License
+### License
 
 ![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
