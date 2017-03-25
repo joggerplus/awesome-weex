@@ -229,8 +229,6 @@
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
 
-* [weex-advanced](https://github.com/walid1992/weex-advanced) [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-advanced.svg)]() weex 简单的demo帮助大家进行学习
-
 * [Hippo-Weex-Demo](https://github.com/q757571446/Hippo-Weex-Demo) [![GitHub stars](https://img.shields.io/github/stars/q757571446/Hippo-Weex-Demo.svg)]() js+we
 
 * [weex_demo](https://github.com/attackonFourier/weex_demo) [![GitHub stars](https://img.shields.io/github/stars/attackonFourier/weex_demo.svg)]() we
@@ -298,6 +296,8 @@
 * [wxc-form](https://github.com/zhoukekestar/wxc-form) [![GitHub stars](https://img.shields.io/github/stars/zhoukekestar/wxc-form.svg)]() Weex Component Form.
 
 * [WeexAnalyzer](https://github.com/xiayun200825/WeexAnalyzer) [![GitHub stars](https://img.shields.io/github/stars/xiayun200825/WeexAnalyzer.svg)]()
+
+* [weex-frame](https://github.com/osmartian/weex-frame) [![GitHub stars](https://img.shields.io/github/stars/osmartian/weex-frame.svg)]() weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等
 
 
 #### 前端基础
