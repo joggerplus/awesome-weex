@@ -1,6 +1,6 @@
 # [awesome-weex](https://github.com/JoggerPlus/awesome-weex)
 
-[Weex](https://github.com/alibaba/weex): A framework for building Mobile cross-platform UI.
+[Weex](https://github.com/apache/incubator-weex/): A framework for building Mobile cross-platform UI.
 
 ###  目录
 - [教程](#教程)
@@ -54,11 +54,17 @@
 * [【资料合集】Weex Conf回顾集锦：讲义PDF+活动视频！
 ](https://yq.aliyun.com/articles/68818?spm=5176.100238.goodcont.14.eaZbvF)
 
+* [halfrost Weex系列文章](https://halfrost.com/tag/weex/)
+
+* [初识 weex 系列（前端视角](https://juejin.im/user/585525f661ff4b0063b4f25a)
+
+
 #### 视频教程
 
 * [用 Weex 命令行快速创建工程](https://yq.aliyun.com/articles/57716?spm=5176.100240.searchblog.49.tKh1YW)
 
 * [Weex视频教程 by weex暴走青年](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)
+
 
 ### 文章
 
@@ -135,6 +141,16 @@
 * [深入折腾 Weex，知乎日报客户端开发](https://yq.aliyun.com/articles/42625)
 
 * [Weex 版扫雷游戏开发](https://yq.aliyun.com/articles/42627)
+
+* [网易严选App感受Weex开发](https://juejin.im/post/59c4d696f265da065d2b7843)
+
+* [地球上最全的weex踩坑攻略-出自大量实践与沉淀](http://www.jianshu.com/p/740431068ff5)
+
+* [通过Weex 300行代码开发一款简易的跑步App](http://www.jackpu.com/tong-guo-weex-300xing-dai-ma-kai-fa-kuan-jian-yi-de-pao-bu-app/)
+
+* [Weex-iOS内存分析](http://www.jianshu.com/p/5624f766bf1b)
+
+* [什么是Native、Web App、Hybrid、React Native 和 Weex？](https://segmentfault.com/a/1190000011154120)
 
 
 ### 网站
@@ -222,8 +238,9 @@
 * [WeexZhihuDaily](https://github.com/nuptboyzhb/WeexZhihuDaily) [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/WeexZhihuDaily.svg)]() weex版知乎日报
 
 
+* [yanxuan-weex-demo](https://github.com/zwwill/yanxuan-weex-demo) [![GitHub stars](https://img.shields.io/github/stars/zwwill/yanxuan-weex-demo.svg)]() 高仿网易严选App
 
-
+* [amap-running-app](https://github.com/weex-plugins/amap-running-app) [![GitHub stars](https://img.shields.io/github/stars/weex-plugins/amap-running-app.svg)]() 一款简易的跑步App
 
 #### demo
 
@@ -264,6 +281,8 @@
 
 #### 库
 
+* [weex-plugins](https://github.com/weex-plugins)
+
 * [weex-vuex-loader](https://github.com/kmCha/weex-vuex-loader)  [![GitHub stars](https://img.shields.io/github/stars/kmCha/weex-vuex-loader.svg)]() 
 
 * [vuex-weex](https://github.com/kmCha/vuex-weex) [![GitHub stars](https://img.shields.io/github/stars/kmCha/vuex-weex.svg)]() 
@@ -298,6 +317,10 @@
 * [WeexAnalyzer](https://github.com/xiayun200825/WeexAnalyzer) [![GitHub stars](https://img.shields.io/github/stars/xiayun200825/WeexAnalyzer.svg)]()
 
 * [weex-frame](https://github.com/osmartian/weex-frame) [![GitHub stars](https://img.shields.io/github/stars/osmartian/weex-frame.svg)]() weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等
+
+* [weex-amap](https://github.com/weex-plugins/weex-amap) [![GitHub stars](https://img.shields.io/github/stars/weex-plugins/weex-amap.svg)]() 高德地图weex插件
+
+* [weex-ui](https://github.com/alibaba/weex-ui) [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg)]() Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。
 
 
 #### 前端基础
