@@ -56,7 +56,7 @@
 
 * [halfrost Weex系列文章](https://halfrost.com/tag/weex/)
 
-* [初识 weex 系列（前端视角](https://juejin.im/user/585525f661ff4b0063b4f25a)
+* [初识 weex 系列（前端视角）](https://juejin.im/user/585525f661ff4b0063b4f25a)
 
 
 #### 视频教程
