@@ -201,6 +201,10 @@
 
 #### App
 
+* [weex-hackernews](https://github.com/weexteam/weex-hackernews) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-hackernews.svg)]() 首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。
+
+
+
 * [WeexOne](https://github.com/dodola/WeexOne) [![GitHub stars](https://img.shields.io/github/stars/dodola/WeexOne.svg)]() Weex [one 一个]客户端
 
 * [weex-yy](https://github.com/vczero/weex-yy) [![GitHub stars](https://img.shields.io/github/stars/vczero/weex-yy.svg)]() 微阅读
@@ -242,6 +246,14 @@
 
 * [amap-running-app](https://github.com/weex-plugins/amap-running-app) [![GitHub stars](https://img.shields.io/github/stars/weex-plugins/amap-running-app.svg)]() 一款简易的跑步App
 
+* [just-do-8](https://github.com/zwwill/just-do-8) [![GitHub stars](https://img.shields.io/github/stars/zwwill/just-do-8.svg)]() 使用 Weex 开发的益智类小游戏
+
+* [weex-toutiao](https://github.com/weexext/weex-toutiao) [![GitHub stars](https://img.shields.io/github/stars/weexext/weex-toutiao.svg)]() 基于WEEX +Vue2.0仿照今日头条的app项目
+
+* [Weex-music](https://github.com/Pooh980219/Weex-music) [![GitHub stars](https://img.shields.io/github/stars/Pooh980219/Weex-music.svg)]() 基于weex的音乐播放器.
+
+
+ 
 #### demo
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
@@ -283,6 +295,9 @@
 
 * [weex-plugins](https://github.com/weex-plugins)
 
+* [rax](https://github.com/alibaba/rax) [![GitHub stars](https://img.shields.io/github/stars/alibaba/rax.svg)]()  Rax 基于 React 的标准，支持在不同容器中渲染，当前最重要的容器即 Weex 和 Web
+
+
 * [weex-vuex-loader](https://github.com/kmCha/weex-vuex-loader)  [![GitHub stars](https://img.shields.io/github/stars/kmCha/weex-vuex-loader.svg)]() 
 
 * [vuex-weex](https://github.com/kmCha/vuex-weex) [![GitHub stars](https://img.shields.io/github/stars/kmCha/vuex-weex.svg)]() 
@@ -322,6 +337,9 @@
 
 * [weex-ui](https://github.com/alibaba/weex-ui) [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg)]() Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。
 
+* [weexScanQR](https://github.com/WUBOSS/weexScanQR) [![GitHub stars](https://img.shields.io/github/stars/WUBOSS/weexScanQR.svg)]()  一个weex扫描二维码插件，可以通过weexpack快速集成
+
+* [WeexCamera](https://github.com/WUBOSS/WeexCamera) [![GitHub stars](https://img.shields.io/github/stars/WUBOSS/WeexCamera.svg)]()  拍照
 
 #### 前端基础
 
