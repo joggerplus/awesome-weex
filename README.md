@@ -159,7 +159,7 @@
 
 * [weex官网](https://weex-project.io/)
 
-* [weex market](https://market.weex-project.io/) 聚合Weex的扩展功能和组件
+* [weex market](https://market.dotwe.org/) 聚合Weex的扩展功能和组件
 
 
 
