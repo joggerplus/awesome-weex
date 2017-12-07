@@ -65,7 +65,7 @@
 
 * [Weex视频教程 by weex暴走青年](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)
 
-* [WEEX免费视频教程-从入门到放肆](http://jspang.com/2017/07/12/weex/)
+* [从入门到放肆 by 技术胖](http://jspang.com/2017/07/12/weex/)
 
 ### 文章
 
