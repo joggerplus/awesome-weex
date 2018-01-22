@@ -58,6 +58,13 @@
 
 * [初识 weex 系列（前端视角）](https://juejin.im/user/585525f661ff4b0063b4f25a)
 
+* [Weex从入门到超神系列](http://www.gaoshilei.com/tags/Weex/)
+
+* [深入Weex系列](https://juejin.im/user/5852a52d8d6d81006593c533/posts)
+
+* [Weex源码分析系列文章](https://github.com/liuzhao2007/Weex-Analysis-Project)
+
+
 
 #### 视频教程
 
@@ -152,6 +159,12 @@
 
 * [什么是Native、Web App、Hybrid、React Native 和 Weex？](https://segmentfault.com/a/1190000011154120)
 
+* [Weex + Ui - Weex Conf 2018](https://juejin.im/post/5a64a1cc6fb9a01c95263175)
+
+* [【适配】记一次 Weex 的 iPhone X 适配 ](https://github.com/zwwill/blog/issues/15)
+
+* [Weex的JS缓存实现](https://juejin.im/post/5a37224251882529c70f36ce)
+
 
 ### 网站
 
@@ -195,6 +208,7 @@
 * [weex-vue-migration](https://github.com/songsiqi/weex-vue-migration) [![GitHub stars](https://img.shields.io/github/stars/songsiqi/weex-vue-migration.svg)]() migration from *.we file to *.vue file
 
 
+* [eros-template](https://github.com/bmfe/eros-template) [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros-template.svg)]() 基于 weex ,使用 vue 来快速简单的构建您的 app 原生应用 。
 
 
 ### 项目
@@ -252,8 +266,12 @@
 
 * [Weex-music](https://github.com/Pooh980219/Weex-music) [![GitHub stars](https://img.shields.io/github/stars/Pooh980219/Weex-music.svg)]() 基于weex的音乐播放器.
 
+* [weex-job](https://github.com/herozhou/weex-job) [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-job.svg)]() weex+node爬虫开发的内推职位app
 
- 
+* [WeexJandan](https://github.com/totzcc/WeexJandan) [![GitHub stars](https://img.shields.io/github/stars/totzcc/WeexJandan.svg)]() Weex Vue写的解析HTML应用
+
+ * [weex-xianyu](https://github.com/herozhou/weex-xianyu) [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-xianyu.svg)]()  xianyu app based on weex(仿咸鱼app)
+
 #### demo
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
@@ -289,6 +307,8 @@
 * [Speed On Weex Develope Road](https://github.com/KennyBest/Weex) [![GitHub stars](https://img.shields.io/github/stars/KennyBest/Weex.svg)]() 
 
 * [WeexMovie](https://github.com/MasonLiuChn/WeexMovie) [![GitHub stars](https://img.shields.io/github/stars/MasonLiuChn/WeexMovie.svg)]() 
+
+* [weex-vue-examples](https://github.com/Hanks10100/weex-vue-examples) [![GitHub stars](https://img.shields.io/github/stars/Hanks10100/weex-vue-examples.svg)]()  Examples of using Weex and Vue.js
 
 
 #### 库
@@ -340,6 +360,14 @@
 * [weexScanQR](https://github.com/WUBOSS/weexScanQR) [![GitHub stars](https://img.shields.io/github/stars/WUBOSS/weexScanQR.svg)]()  一个weex扫描二维码插件，可以通过weexpack快速集成
 
 * [WeexCamera](https://github.com/WUBOSS/WeexCamera) [![GitHub stars](https://img.shields.io/github/stars/WUBOSS/WeexCamera.svg)]()  拍照
+
+* [weex-droplet-ui](https://github.com/hbteam/weex-droplet-ui) [![GitHub stars](https://img.shields.io/github/stars/hbteam/weex-droplet-ui.svg)]()  一个轻量级weex UI组件库
+
+* [weex-uikit](https://github.com/erguotou520/weex-uikit) [![GitHub stars](https://img.shields.io/github/stars/erguotou520/weex-uikit.svg)]()  一个weex的UI组件库
+
+* [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
+
+
 
 #### 前端基础
 
