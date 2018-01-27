@@ -165,6 +165,8 @@
 
 * [Weex的JS缓存实现](https://juejin.im/post/5a37224251882529c70f36ce)
 
+* [关于weex](https://segmentfault.com/a/1190000007560611)
+
 
 ### 网站
 
