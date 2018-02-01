@@ -212,6 +212,7 @@
 
 * [eros-template](https://github.com/bmfe/eros-template) [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros-template.svg)]() 基于 weex ,使用 vue 来快速简单的构建您的 app 原生应用 。
 
+* [weex-template](https://github.com/GeoffZhu/weex-template) [![GitHub stars](https://img.shields.io/github/stars/geoffzhu/weex-template.svg)]() 开箱即用的weex项目初始化模板。
 
 ### 项目
 
