@@ -275,6 +275,7 @@
 
  * [weex-xianyu](https://github.com/herozhou/weex-xianyu) [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-xianyu.svg)]()  xianyu app based on weex(仿咸鱼app)
 
+* [mpvue-weex](https://github.com/zhongku/mpvue-weex) [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
 #### demo
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
