@@ -290,6 +290,7 @@
 
 * [WeexZhihuDaily](https://github.com/nuptboyzhb/WeexZhihuDaily) [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/WeexZhihuDaily.svg)]() weex版知乎日报
 
+* [weex-toutiao](https://github.com/weexext/weex-toutiao) [![GitHub stars](https://img.shields.io/github/stars/weexext/weex-toutiao.svg)]() 仿今日头条
 
 #### demo
 
@@ -394,6 +395,9 @@
 
 * [weex-droplet-ui](https://github.com/hbteam/weex-droplet-ui) [![GitHub stars](https://img.shields.io/github/stars/hbteam/weex-droplet-ui.svg)]() 水滴UI一个轻量级weex UI组件库，包含表单元素，tabbar，picker城市三级联动选择，actionsheet，switch等一系列常用组件
 
+* [weex-vue-router](https://github.com/dongnaebi/weex-vue-router) [![GitHub stars](https://img.shields.io/github/stars/dongnaebi/weex-vue-router.svg)]() router for weex as you can use some feature of vue-router
+
+* [weex-flymeui](https://github.com/FlymeApps/weex-flymeui) [![GitHub stars](https://img.shields.io/github/stars/FlymeApps/weex-flymeui.svg)]() A Flyme Style UI library based on Weex for Creator. 
 
 #### 前端基础
 
