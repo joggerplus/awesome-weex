@@ -210,7 +210,7 @@
 * [weex-vue-migration](https://github.com/songsiqi/weex-vue-migration) [![GitHub stars](https://img.shields.io/github/stars/songsiqi/weex-vue-migration.svg)]() migration from *.we file to *.vue file
 
 
-* [eros-template](https://github.com/bmfe/eros-template) [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros-template.svg)]() 基于 weex ,使用 vue 来快速简单的构建您的 app 原生应用 。
+* [eros](https://github.com/bmfe/eros) [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros.svg)]() 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 
 * [weex-template](https://github.com/GeoffZhu/weex-template) [![GitHub stars](https://img.shields.io/github/stars/geoffzhu/weex-template.svg)]() 开箱即用的weex项目初始化模板。
 
@@ -276,6 +276,9 @@
  * [weex-xianyu](https://github.com/herozhou/weex-xianyu) [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-xianyu.svg)]()  xianyu app based on weex(仿咸鱼app)
 
 * [mpvue-weex](https://github.com/zhongku/mpvue-weex) [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
+
+* [GSYGithubAppWeex](https://github.com/CarGuo/GSYGithubAppWeex) [![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYGithubAppWeex.svg)]() 拥有Flutter、Weex、ReactNative三个版本。
+
 #### demo
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
@@ -371,7 +374,7 @@
 
 * [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
 
-
+* [WeexPlus](https://github.com/goldze/WeexPlus)  [![GitHub stars](https://img.shields.io/github/stars/goldze/WeexPlus.svg)]() 提供weex调用android native方法的一套扩展通信交互库，包含页面导航、数据存储、图片选择、二维码识别、权限等。
 
 #### 前端基础
 
