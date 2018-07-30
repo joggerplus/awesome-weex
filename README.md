@@ -286,11 +286,6 @@
 
 * [weex-todo-list](https://github.com/tralves/weex-todo-list) [![GitHub stars](https://img.shields.io/github/stars/tralves/weex-todo-list.svg)]()
 
-* [weex-yy](https://github.com/vczero/weex-yy) [![GitHub stars](https://img.shields.io/github/stars/vczero/weex-yy.svg)]() 微阅读
-
-* [WeexZhihuDaily](https://github.com/nuptboyzhb/WeexZhihuDaily) [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/WeexZhihuDaily.svg)]() weex版知乎日报
-
-* [weex-toutiao](https://github.com/weexext/weex-toutiao) [![GitHub stars](https://img.shields.io/github/stars/weexext/weex-toutiao.svg)]() 仿今日头条
 
 #### demo
 
