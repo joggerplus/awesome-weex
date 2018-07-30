@@ -217,6 +217,7 @@
 
 * [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
 
+* [weex-vue-starter-kit](https://github.com/ElemeFE/weex-vue-starter-kit) [![GitHub stars](https://img.shields.io/github/stars/ElemeFE/weex-vue-starter-kit.svg)]()
 
 ### 项目
 
@@ -282,6 +283,13 @@
 * [mpvue-weex](https://github.com/zhongku/mpvue-weex) [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
 
 * [GSYGithubAppWeex](https://github.com/CarGuo/GSYGithubAppWeex) [![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYGithubAppWeex.svg)]() 拥有Flutter、Weex、ReactNative三个版本。
+
+* [weex-todo-list](https://github.com/tralves/weex-todo-list) [![GitHub stars](https://img.shields.io/github/stars/tralves/weex-todo-list.svg)]()
+
+* [weex-yy](https://github.com/vczero/weex-yy) [![GitHub stars](https://img.shields.io/github/stars/vczero/weex-yy.svg)]() 微阅读
+
+* [WeexZhihuDaily](https://github.com/nuptboyzhb/WeexZhihuDaily) [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/WeexZhihuDaily.svg)]() weex版知乎日报
+
 
 #### demo
 
@@ -384,6 +392,7 @@
 
 * [nat](https://github.com/natjs/nat) [![GitHub stars](https://img.shields.io/github/stars/natjs/nat.svg)]() 轻松为你构建的 Weex 应用加入原生功能
 
+* [weex-droplet-ui](https://github.com/hbteam/weex-droplet-ui) [![GitHub stars](https://img.shields.io/github/stars/hbteam/weex-droplet-ui.svg)]() 水滴UI一个轻量级weex UI组件库，包含表单元素，tabbar，picker城市三级联动选择，actionsheet，switch等一系列常用组件
 
 
 #### 前端基础
