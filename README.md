@@ -381,8 +381,6 @@
 
 * [WeexCamera](https://github.com/WUBOSS/WeexCamera) [![GitHub stars](https://img.shields.io/github/stars/WUBOSS/WeexCamera.svg)]()  拍照
 
-* [weex-droplet-ui](https://github.com/hbteam/weex-droplet-ui) [![GitHub stars](https://img.shields.io/github/stars/hbteam/weex-droplet-ui.svg)]()  一个轻量级weex UI组件库
-
 * [weex-uikit](https://github.com/erguotou520/weex-uikit) [![GitHub stars](https://img.shields.io/github/stars/erguotou520/weex-uikit.svg)]()  一个weex的UI组件库
 
 * [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
