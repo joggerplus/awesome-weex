@@ -349,7 +349,6 @@
 
 * [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-rx-framework.svg)]() Rx framework for weex
 
-* [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-tabbar.svg)]() weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
 
 * [weex-marquee](https://github.com/zhouyuexie/weex-marquee) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-marquee.svg)]() weex custom component---marquee,can Infinite scrolling.
 
