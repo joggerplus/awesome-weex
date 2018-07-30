@@ -72,6 +72,7 @@
 
 * [Weex视频教程 by weex暴走青年](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)
 
+* [技术胖的WEEX入门到实战视频教程](https://www.bilibili.com/video/av14478917/)
 
 ### 文章
 
