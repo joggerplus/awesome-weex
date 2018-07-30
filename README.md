@@ -215,6 +215,9 @@
 
 * [weex-template](https://github.com/GeoffZhu/weex-template) [![GitHub stars](https://img.shields.io/github/stars/geoffzhu/weex-template.svg)]() 开箱即用的weex项目初始化模板。
 
+* [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
+
+
 ### 项目
 
 #### App
@@ -376,6 +379,12 @@
 * [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
 
 * [WeexPlus](https://github.com/goldze/WeexPlus)  [![GitHub stars](https://img.shields.io/github/stars/goldze/WeexPlus.svg)]() 提供weex调用android native方法的一套扩展通信交互库，包含页面导航、数据存储、图片选择、二维码识别、权限等。
+
+* [bindingx](https://github.com/alibaba/bindingx) [![GitHub stars](https://img.shields.io/github/stars/alibaba/bindingx.svg)]() 基于 weex / React Native 的富交互解决方案。
+
+* [nat](https://github.com/natjs/nat) [![GitHub stars](https://img.shields.io/github/stars/natjs/nat.svg)]() 轻松为你构建的 Weex 应用加入原生功能
+
+
 
 #### 前端基础
 
