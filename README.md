@@ -180,7 +180,7 @@
 
 ### 工具
 
-* [Weex IDE](https://github.com/weexteam/weex-ide) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-ide.svg)]() 
+* [Thera](https://github.com/alibaba/Thera) [![GitHub stars](https://img.shields.io/github/stars/alibaba/Thera.svg)]() IDE,支持weex, luaview, react native
 
 
 * [weex playground app](https://alibaba.github.io/weex/download.html)
