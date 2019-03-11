@@ -72,7 +72,7 @@
 
 * [Weex视频教程 by weex暴走青年](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)
 
-* [从入门到放肆 by 技术胖](http://jspang.com/2017/07/12/weex/)
+* [技术胖的WEEX入门到实战视频教程](https://www.bilibili.com/video/av14478917/)
 
 ### 文章
 
@@ -181,7 +181,7 @@
 
 ### 工具
 
-* [Weex IDE](https://github.com/weexteam/weex-ide) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-ide.svg)]() 
+* [Thera](https://github.com/alibaba/Thera) [![GitHub stars](https://img.shields.io/github/stars/alibaba/Thera.svg)]() IDE,支持weex, luaview, react native
 
 
 * [weex playground app](https://alibaba.github.io/weex/download.html)
@@ -211,9 +211,13 @@
 * [weex-vue-migration](https://github.com/songsiqi/weex-vue-migration) [![GitHub stars](https://img.shields.io/github/stars/songsiqi/weex-vue-migration.svg)]() migration from *.we file to *.vue file
 
 
-* [eros-template](https://github.com/bmfe/eros-template) [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros-template.svg)]() 基于 weex ,使用 vue 来快速简单的构建您的 app 原生应用 。
+* [eros](https://github.com/bmfe/eros) [![GitHub stars](https://img.shields.io/github/stars/bmfe/eros.svg)]() 一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。
 
 * [weex-template](https://github.com/GeoffZhu/weex-template) [![GitHub stars](https://img.shields.io/github/stars/geoffzhu/weex-template.svg)]() 开箱即用的weex项目初始化模板。
+
+* [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
+
+* [weex-vue-starter-kit](https://github.com/ElemeFE/weex-vue-starter-kit) [![GitHub stars](https://img.shields.io/github/stars/ElemeFE/weex-vue-starter-kit.svg)]()
 
 ### 项目
 
@@ -276,6 +280,13 @@
 
  * [weex-xianyu](https://github.com/herozhou/weex-xianyu) [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-xianyu.svg)]()  xianyu app based on weex(仿咸鱼app)
 
+* [mpvue-weex](https://github.com/zhongku/mpvue-weex) [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
+
+* [GSYGithubAppWeex](https://github.com/CarGuo/GSYGithubAppWeex) [![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYGithubAppWeex.svg)]() 拥有Flutter、Weex、ReactNative三个版本。
+
+* [weex-todo-list](https://github.com/tralves/weex-todo-list) [![GitHub stars](https://img.shields.io/github/stars/tralves/weex-todo-list.svg)]()
+
+
 #### demo
 
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
@@ -333,7 +344,6 @@
 
 * [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-rx-framework.svg)]() Rx framework for weex
 
-* [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-tabbar.svg)]() weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
 
 * [weex-marquee](https://github.com/zhouyuexie/weex-marquee) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-marquee.svg)]() weex custom component---marquee,can Infinite scrolling.
 
@@ -365,13 +375,21 @@
 
 * [WeexCamera](https://github.com/WUBOSS/WeexCamera) [![GitHub stars](https://img.shields.io/github/stars/WUBOSS/WeexCamera.svg)]()  拍照
 
-* [weex-droplet-ui](https://github.com/hbteam/weex-droplet-ui) [![GitHub stars](https://img.shields.io/github/stars/hbteam/weex-droplet-ui.svg)]()  一个轻量级weex UI组件库
-
 * [weex-uikit](https://github.com/erguotou520/weex-uikit) [![GitHub stars](https://img.shields.io/github/stars/erguotou520/weex-uikit.svg)]()  一个weex的UI组件库
 
 * [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
 
+* [WeexPlus](https://github.com/goldze/WeexPlus)  [![GitHub stars](https://img.shields.io/github/stars/goldze/WeexPlus.svg)]() 提供weex调用android native方法的一套扩展通信交互库，包含页面导航、数据存储、图片选择、二维码识别、权限等。
 
+* [bindingx](https://github.com/alibaba/bindingx) [![GitHub stars](https://img.shields.io/github/stars/alibaba/bindingx.svg)]() 基于 weex / React Native 的富交互解决方案。
+
+* [nat](https://github.com/natjs/nat) [![GitHub stars](https://img.shields.io/github/stars/natjs/nat.svg)]() 轻松为你构建的 Weex 应用加入原生功能
+
+* [weex-droplet-ui](https://github.com/hbteam/weex-droplet-ui) [![GitHub stars](https://img.shields.io/github/stars/hbteam/weex-droplet-ui.svg)]() 水滴UI一个轻量级weex UI组件库，包含表单元素，tabbar，picker城市三级联动选择，actionsheet，switch等一系列常用组件
+
+* [weex-vue-router](https://github.com/dongnaebi/weex-vue-router) [![GitHub stars](https://img.shields.io/github/stars/dongnaebi/weex-vue-router.svg)]() router for weex as you can use some feature of vue-router
+
+* [weex-flymeui](https://github.com/FlymeApps/weex-flymeui) [![GitHub stars](https://img.shields.io/github/stars/FlymeApps/weex-flymeui.svg)]() A Flyme Style UI library based on Weex for Creator. 
 
 #### 前端基础
 
