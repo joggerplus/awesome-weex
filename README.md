@@ -403,11 +403,11 @@
 
 * [alibaba  - BindingX](https://github.com/alibaba/bindingx) [![GitHub stars](https://img.shields.io/github/stars/alibaba/bindingx.svg)]() 基于 weex / React Native 的富交互解决方案。
 
-* [didi/chameleon)](https://github.com/didi/chameleon) [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)]() 一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序
+* [didi/chameleon](https://github.com/didi/chameleon) [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)]() 一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序
 
-* [weex-amui)](https://github.com/hminghe/weex-amui) [![GitHub stars](https://img.shields.io/github/stars/hminghe/weex-amui.svg)]() Weex版本的Ant Design Mobile
+* [weex-amui](https://github.com/hminghe/weex-amui) [![GitHub stars](https://img.shields.io/github/stars/hminghe/weex-amui.svg)]() Weex版本的Ant Design Mobile
 
-* [clchart)](https://github.com/seerline/clchart) [![GitHub stars](https://img.shields.io/github/stars/seerline/clchart.svg)]() 跨平台(html5 react-native weex wechat-applet) 的股票图表库
+* [clchart](https://github.com/seerline/clchart) [![GitHub stars](https://img.shields.io/github/stars/seerline/clchart.svg)]() 跨平台(html5 react-native weex wechat-applet) 的股票图表库
 
 #### 前端基础
 
