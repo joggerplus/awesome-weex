@@ -168,6 +168,11 @@
 
 * [关于weex](https://segmentfault.com/a/1190000007560611)
 
+* [Weex 技术在苏宁移动办公开发中的实践](https://www.infoq.cn/article/weex-in-suning-mobile-officing-practice)
+
+* [基于weex的有赞无线开发框架](https://juejin.im/post/5bd7feb85188257100456a85)
+
+* [企鹅电竞weex实践——UI开发篇](http://dopro.io/egame-weex-ui-develop.html)
 
 ### 网站
 
@@ -218,6 +223,9 @@
 * [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
 
 * [weex-vue-starter-kit](https://github.com/ElemeFE/weex-vue-starter-kit) [![GitHub stars](https://img.shields.io/github/stars/ElemeFE/weex-vue-starter-kit.svg)]()
+
+* [easywebpack-weex](https://github.com/easy-team/easywebpack-weex) [![GitHub stars](https://img.shields.io/github/stars//easy-team/easywebpack-weex.svg)]() Weex + Vue + Webpack的build解决方案
+
 
 ### 项目
 
@@ -390,6 +398,16 @@
 * [weex-vue-router](https://github.com/dongnaebi/weex-vue-router) [![GitHub stars](https://img.shields.io/github/stars/dongnaebi/weex-vue-router.svg)]() router for weex as you can use some feature of vue-router
 
 * [weex-flymeui](https://github.com/FlymeApps/weex-flymeui) [![GitHub stars](https://img.shields.io/github/stars/FlymeApps/weex-flymeui.svg)]() A Flyme Style UI library based on Weex for Creator. 
+
+* [F2](https://github.com/antvis/f2) [![GitHub stars](https://img.shields.io/github/stars/antvis/f2.svg)]() 一个专注于移动，开箱即用的可视化解决方案，完美支持 H5 环境同时兼容多种环境（node, 小程序，weex）。
+
+* [alibaba  - BindingX](https://github.com/alibaba/bindingx) [![GitHub stars](https://img.shields.io/github/stars/alibaba/bindingx.svg)]() 基于 weex / React Native 的富交互解决方案。
+
+* [didi/chameleon)](https://github.com/didi/chameleon) [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)]() 一套代码运行多端，一端所见即多端所见。支持web、微信小程序、weex、百度小程序、支付宝小程序
+
+* [weex-amui)](https://github.com/hminghe/weex-amui) [![GitHub stars](https://img.shields.io/github/stars/hminghe/weex-amui.svg)]() Weex版本的Ant Design Mobile
+
+* [clchart)](https://github.com/seerline/clchart) [![GitHub stars](https://img.shields.io/github/stars/seerline/clchart.svg)]() 跨平台(html5 react-native weex wechat-applet) 的股票图表库
 
 #### 前端基础
 
