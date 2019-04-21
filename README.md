@@ -257,10 +257,6 @@
 
 * [WeexFogHybrid](https://github.com/bringmehome/WeexFogHybrid) [![GitHub stars](https://img.shields.io/github/stars/bringmehome/WeexFogHybrid.svg)]() Fog2.0 4 weex
 
-* [weexCalculator](https://github.com/SenorYAN/weexCalculator) [![GitHub stars](https://img.shields.io/github/stars/SenorYAN/weexCalculator.svg)]() 
-
-* [rc-weex](https://github.com/kumalee/rc-weex) [![GitHub stars](https://img.shields.io/github/stars/kumalee/rc-weex.svg)]() weex client for redcouch
-
 * [weex-relaCalc](https://github.com/IACJ/weex-relaCalc) [![GitHub stars](https://img.shields.io/github/stars/IACJ/weex-relaCalc.svg)]() weex三端开发-亲戚称谓计算器
 
 * [weex-eleme](https://github.com/furybean/weex-eleme) [![GitHub stars](https://img.shields.io/github/stars/furybean/weex-eleme.svg)]() A eleme app using weex.
@@ -279,8 +275,6 @@
 * [just-do-8](https://github.com/zwwill/just-do-8) [![GitHub stars](https://img.shields.io/github/stars/zwwill/just-do-8.svg)]() 使用 Weex 开发的益智类小游戏
 
 * [weex-toutiao](https://github.com/weexext/weex-toutiao) [![GitHub stars](https://img.shields.io/github/stars/weexext/weex-toutiao.svg)]() 基于WEEX +Vue2.0仿照今日头条的app项目
-
-* [Weex-music](https://github.com/Pooh980219/Weex-music) [![GitHub stars](https://img.shields.io/github/stars/Pooh980219/Weex-music.svg)]() 基于weex的音乐播放器.
 
 * [weex-job](https://github.com/herozhou/weex-job) [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-job.svg)]() weex+node爬虫开发的内推职位app
 
@@ -322,8 +316,6 @@
 * [weex-dev](https://github.com/wangweianger/weex-dev) [![GitHub stars](https://img.shields.io/github/stars/wangweianger/weex-dev.svg)]() weex 初试
 
 * [h5weex-example](https://github.com/h5weex/h5weex-example) [![GitHub stars](https://img.shields.io/github/stars/h5weex/h5weex-example.svg)]() h5weex实例
-
-* [EWhat](https://github.com/Lx15/EWhat) [![GitHub stars](https://img.shields.io/github/stars/Lx15/EWhat.svg)]() 基于weex的app及h5应用
 
 * [user-guide-app](https://github.com/echoyoung46/user-guide-app) [![GitHub stars](https://img.shields.io/github/stars/echoyoung46/user-guide-app.svg)]() Hybrid app by Weex.
 
