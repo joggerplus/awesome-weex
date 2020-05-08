@@ -184,12 +184,22 @@
 
 * [weex-vue-starter-kit](https://github.com/ElemeFE/weex-vue-starter-kit) [![GitHub stars](https://img.shields.io/github/stars/ElemeFE/weex-vue-starter-kit.svg)]()
 
-* [easywebpack-weex](https://github.com/easy-team/easywebpack-weex) [![GitHub stars](https://img.shields.io/github/stars//easy-team/easywebpack-weex.svg)]() Weex + Vue + Webpack的build解决方案
+* [easywebpack-weex](https://github.com/easy-team/easywebpack-weex) [![GitHub stars](https://img.shields.io/github/stars/easy-team/easywebpack-weex.svg)]() Weex + Vue + Webpack的build解决方案
+
+
+* [incubator-weex-loader](https://github.com/apache/incubator-weex-loader) [![GitHub stars](https://img.shields.io/github/stars/apache/incubator-weex-loader.svg)]() A webpack loader for Weex.
+
+
 
 
 ### 项目
 
 #### App
+
+
+
+* [incubator-weex-playground](https://github.com/apache/incubator-weex-playground) [![GitHub stars](https://img.shields.io/github/stars/apache/incubator-weex-playground.svg)]() Playground for Apache Weex, demo purpose only 
+
 
 * [weex-hackernews](https://github.com/weexteam/weex-hackernews) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-hackernews.svg)]() 首个使用 Weex 和 Vue 开发的 Hacker News 原生应用。
 
@@ -249,6 +259,11 @@
 
 * [weex-vue-examples](https://github.com/Hanks10100/weex-vue-examples) [![GitHub stars](https://img.shields.io/github/stars/Hanks10100/weex-vue-examples.svg)]()  Examples of using Weex and Vue.js
 
+* [weex-frame](https://github.com/walid1992/weex-frame) [![GitHub stars](https://img.shields.io/github/stars/walid1992/weex-frame.svg)]()  weex 基于vue2.0开发框架
+
+
+
+
 
 #### 库
 
@@ -279,8 +294,6 @@
 * [weexScanQR](https://github.com/WUBOSS/weexScanQR) [![GitHub stars](https://img.shields.io/github/stars/WUBOSS/weexScanQR.svg)]()  一个weex扫描二维码插件，可以通过weexpack快速集成
 
 * [weex-uikit](https://github.com/erguotou520/weex-uikit) [![GitHub stars](https://img.shields.io/github/stars/erguotou520/weex-uikit.svg)]()  一个weex的UI组件库
-
-* [bui-weex](https://github.com/bingo-oss/bui-weex) [![GitHub stars](https://img.shields.io/github/stars/bingo-oss/bui-weex.svg)]() 专门为 Weex 前端开发者打造的一套高质量UI框架
 
 * [WeexPlus](https://github.com/goldze/WeexPlus)  [![GitHub stars](https://img.shields.io/github/stars/goldze/WeexPlus.svg)]() 提供weex调用android native方法的一套扩展通信交互库，包含页面导航、数据存储、图片选择、二维码识别、权限等。
 
