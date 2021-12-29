@@ -242,6 +242,9 @@
 
 * [weex-todo-list](https://github.com/tralves/weex-todo-list) [![GitHub stars](https://img.shields.io/github/stars/tralves/weex-todo-list.svg)]()
 
+* [monkey-weex](https://github.com/coderyi/monkey-weex) [![GitHub stars](https://img.shields.io/github/stars/coderyi/monkey-weex.svg)]() Monkey是一个GitHub Weex客户端，展示GitHub用户和仓库的排名
+
+
 
 #### demo
 
