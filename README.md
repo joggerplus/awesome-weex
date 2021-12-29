@@ -62,8 +62,6 @@
 
 #### 视频教程
 
-* [用 Weex 命令行快速创建工程](https://yq.aliyun.com/articles/57716?spm=5176.100240.searchblog.49.tKh1YW)
-
 * [Weex视频教程 by weex暴走青年](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)
 
 * [技术胖的WEEX入门到实战视频教程](https://www.bilibili.com/video/av14478917/)
@@ -133,8 +131,6 @@
 
 * [网易严选App感受Weex开发](https://juejin.im/post/59c4d696f265da065d2b7843)
 
-* [地球上最全的weex踩坑攻略-出自大量实践与沉淀](http://www.jianshu.com/p/740431068ff5)
-
 * [通过Weex 300行代码开发一款简易的跑步App](http://www.jackpu.com/tong-guo-weex-300xing-dai-ma-kai-fa-kuan-jian-yi-de-pao-bu-app/)
 
 * [Weex-iOS内存分析](http://www.jianshu.com/p/5624f766bf1b)
@@ -156,9 +152,7 @@
 ### 网站
 
 
-* [weex官网](https://weex-project.io/)
-
-* [weex market](https://market.dotwe.org/) 聚合Weex的扩展功能和组件
+* [weex官网](http://doc.weex.io/zh/)
 
 
 
@@ -171,9 +165,6 @@
 
 * [vim-vue](https://github.com/posva/vim-vue) [![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)]()
  Syntax Highligth for Vue.js components
- 
-* [language-vue-component](https://github.com/CYBAI/language-vue-component) [![GitHub stars](https://img.shields.io/github/stars/CYBAI/language-vue-component.svg)]() Adds syntax highlighting to Vue Component files in Atom. 
-
 
 * [weex-language-support](https://github.com/misakuo/weex-language-support) [![GitHub stars](https://img.shields.io/github/stars/misakuo/weex-language-support.svg)]() IntelliJ plugin for weex ,关于使用可以查看此文，[Intellij Weex 插件使用说明](http://blog.qianlicao.cn/technology/2016/07/07/intellij-plugin-instruction/) 
 
@@ -213,11 +204,6 @@
 
 * [toolbox-weex](https://github.com/hugojing/toolbox-weex)  [![GitHub stars](https://img.shields.io/github/stars/hugojing/toolbox-weex.svg)]() Weex - Some simple native UI pages written with Weex | 几个简单的原生界面示例，面向新手 & 用 Weex 编写
 
-* [weex-baji](https://github.com/charlescui/weex-baji) [![GitHub stars](https://img.shields.io/github/stars/charlescui/weex-baji.svg)]() WEEX版本的电视直播节目单APP
-
-* [PurchasingPlatform](https://github.com/emptywalker/PurchasingPlatform) [![GitHub stars](https://img.shields.io/github/stars/emptywalker/PurchasingPlatform.svg)]() 采购平台
-
-* [iCar](https://github.com/voidxin/iCar) [![GitHub stars](https://img.shields.io/github/stars/voidxin/iCar.svg)]() “用weex技术实现新闻详情页是怎样一种体验”？ iCar project 是一款用Weex技术实现的汽车新闻客户端
 
 * [WeexZhihuDaily](https://github.com/nuptboyzhb/WeexZhihuDaily) [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/WeexZhihuDaily.svg)]() weex版知乎日报
 
@@ -248,17 +234,8 @@
 
 #### demo
 
-* [weex-todo-app](https://github.com/GeoffZhu/weex-todo-app) [![GitHub stars](https://img.shields.io/github/stars/GeoffZhu/weex-todo-app.svg)]() A todo list App. 
-
 * [weex-demo-dusan](https://github.com/duqian291902259/weex-demo-dusan) [![GitHub stars](https://img.shields.io/github/stars/duqian291902259/weex-demo-dusan.svg)]() A demo which is based on weex ,it contains splash,guide ,login,and home page. on upgrading... 
 
-* [weexPageDemo](https://github.com/dengjunwen/weexPageDemo) [![GitHub stars](https://img.shields.io/github/stars/dengjunwen/weexPageDemo.svg)]() 原有native工程集成weex sdk 教程和demo for iOS
-
-* [WeexSwiftSample](https://github.com/acton393/WeexSwiftSample) [![GitHub stars](https://img.shields.io/github/stars/acton393/WeexSwiftSample.svg)]()
-
-* [Hippo-Weex-Android](https://github.com/q757571446/Hippo-Weex-Android) [![GitHub stars](https://img.shields.io/github/stars/q757571446/Hippo-Weex-Android.svg)]() Android端使用Weex的简单demo，进行了简单封装 dagger+mvp+retrofit+weex 扩展了路由模块，支持weex界面跳转native界面的无参和带参两种形式，
-
-* [WeexMovie](https://github.com/MasonLiuChn/WeexMovie) [![GitHub stars](https://img.shields.io/github/stars/MasonLiuChn/WeexMovie.svg)]() 
 
 * [weex-vue-examples](https://github.com/Hanks10100/weex-vue-examples) [![GitHub stars](https://img.shields.io/github/stars/Hanks10100/weex-vue-examples.svg)]()  Examples of using Weex and Vue.js
 
@@ -272,29 +249,19 @@
 
 * [weex-plugins](https://github.com/weex-plugins)
 
-* [rax](https://github.com/alibaba/rax) [![GitHub stars](https://img.shields.io/github/stars/alibaba/rax.svg)]()  Rax 基于 React 的标准，支持在不同容器中渲染，当前最重要的容器即 Weex 和 Web
-
 * [weex-x](https://github.com/Jinjiang/weex-x) [![GitHub stars](https://img.shields.io/github/stars/Jinjiang/weex-x.svg)]() Flux-inspired-Architecture-Vuex-inspired-Architecture for Weex. 
 
 * [WeexiOSKit](https://github.com/coderyi/hello-weex) [![GitHub stars](https://img.shields.io/github/stars/coderyi/hello-weex.svg)]() 扩展了许多iOS上的Component和Module
 
 * [weex-rx-framework](https://github.com/weexteam/weex-rx-framework) [![GitHub stars](https://img.shields.io/github/stars/weexteam/weex-rx-framework.svg)]() Rx framework for weex
 
-* [Weex-OkHttp-Adapter](https://github.com/zjutkz/Weex-OkHttp-Adapter) [![GitHub stars](https://img.shields.io/github/stars/zjutkz/Weex-OkHttp-Adapter.svg)]() A Weex network Adapter based on OkHttp
-
-* [Weex-TestDemo](https://github.com/HJ-StevenSun/Weex-TestDemo) [![GitHub stars](https://img.shields.io/github/stars/HJ-StevenSun/Weex-TestDemo.svg)]()  Mac调试Weex工程
-
 * [weex-tabbar](https://github.com/zhouyuexie/weex-tabbar) [![GitHub stars](https://img.shields.io/github/stars/zhouyuexie/weex-tabbar.svg)]()   weex custom tabbar Component , Support children component.(weex自定义tabbar组件)
-
-* [weex-percentage-circle](https://github.com/JackPu/weex-percentage-circle) [![GitHub stars](https://img.shields.io/github/stars/JackPu/weex-percentage-circle.svg)]() a component for weex percentage circle
 
 * [weex-frame](https://github.com/osmartian/weex-frame) [![GitHub stars](https://img.shields.io/github/stars/osmartian/weex-frame.svg)]() weex 基于vue2.0开发框架库，包括三端集成、组件库提供、weex api封装等等
 
 * [weex-amap](https://github.com/weex-plugins/weex-amap) [![GitHub stars](https://img.shields.io/github/stars/weex-plugins/weex-amap.svg)]() 高德地图weex插件
 
 * [weex-ui](https://github.com/alibaba/weex-ui) [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg)]() Weex Ui 是一套 Alibaba 完全基于 Weex 特性封装的组件库，包含大部分 Weex 业务中所需基础功能组件和相关解决方案。
-
-* [weexScanQR](https://github.com/WUBOSS/weexScanQR) [![GitHub stars](https://img.shields.io/github/stars/WUBOSS/weexScanQR.svg)]()  一个weex扫描二维码插件，可以通过weexpack快速集成
 
 * [weex-uikit](https://github.com/erguotou520/weex-uikit) [![GitHub stars](https://img.shields.io/github/stars/erguotou520/weex-uikit.svg)]()  一个weex的UI组件库
 
