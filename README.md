@@ -68,6 +68,8 @@
 
 ### 文章
 
+* [五年陈的 Weex，聊聊它的过去现在和未来](https://zhuanlan.zhihu.com/p/373582962)
+
 * [Weex的入门体验小结](https://zhuanlan.zhihu.com/p/21770667)
 
 
@@ -81,8 +83,6 @@
 
 * [Weex调试神器——Weex Devtools使用手册 ](https://github.com/weexteam/article/issues/50)
 
-* [Weex iOS SDK 集成指南](https://open.taobao.com/doc2/detail?spm=a219a.7629140.0.0.tFddsV&&docType=1&articleId=104829)
-
 * [Weex meets Vue，记一次 Weex 前端团队的讨论](https://github.com/weexteam/article/issues/77)
 
 * [Weex & ReactNative & JSPatch](http://awhisper.github.io/2016/07/22/Weex-ReactNative-JSPatch/)
@@ -92,8 +92,6 @@
 * [Weex Android Border绘制](https://yq.aliyun.com/articles/60784)
 
 * [Weex 在 JS Runtime 内的多实例管理](https://yq.aliyun.com/articles/59940)
-
-* [[Weex Tips] 合理使用 Weex 的生命周期](https://yq.aliyun.com/articles/59936)
 
 * [Weex 框架中 JS Framework 的结构](https://yq.aliyun.com/articles/59934)
 
@@ -125,10 +123,6 @@
 
 * [浅析weex之vdom渲染](https://yq.aliyun.com/articles/57711)
 
-* [深入折腾 Weex，知乎日报客户端开发](https://yq.aliyun.com/articles/42625)
-
-* [Weex 版扫雷游戏开发](https://yq.aliyun.com/articles/42627)
-
 * [网易严选App感受Weex开发](https://juejin.im/post/59c4d696f265da065d2b7843)
 
 * [通过Weex 300行代码开发一款简易的跑步App](http://www.jackpu.com/tong-guo-weex-300xing-dai-ma-kai-fa-kuan-jian-yi-de-pao-bu-app/)
@@ -149,10 +143,13 @@
 
 * [基于weex的有赞无线开发框架](https://juejin.im/post/5bd7feb85188257100456a85)
 
+
 ### 网站
 
 
+
 * [weex官网](http://doc.weex.io/zh/)
+
 
 
 
@@ -220,7 +217,7 @@
 
 * [WeexJandan](https://github.com/totzcc/WeexJandan) [![GitHub stars](https://img.shields.io/github/stars/totzcc/WeexJandan.svg)]() Weex Vue写的解析HTML应用
 
- * [weex-xianyu](https://github.com/herozhou/weex-xianyu) [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-xianyu.svg)]()  xianyu app based on weex(仿咸鱼app)
+* [weex-xianyu](https://github.com/herozhou/weex-xianyu) [![GitHub stars](https://img.shields.io/github/stars/herozhou/weex-xianyu.svg)]()  xianyu app based on weex(仿咸鱼app)
 
 * [mpvue-weex](https://github.com/zhongku/mpvue-weex) [![GitHub stars](https://img.shields.io/github/stars/zhongku/mpvue-weex.svg)]() 一套 Vue 代码，五端可用(H5、小程序、PC、苹果App、安卓App）
 
